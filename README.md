@@ -1,2 +1,2 @@
 # config-files
-Linux Config Files
+Sample Linux Config Files
