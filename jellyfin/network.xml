@@ -30,7 +30,7 @@
   <LocalNetworkSubnets />
   <LocalNetworkAddresses />
   <KnownProxies>
-    <string>192.168.206.35</string>
+    <string>192.168.4.50</string>
   </KnownProxies>
   <EnablePublishedServerUriByRequest>false</EnablePublishedServerUriByRequest>
 </NetworkConfiguration>
