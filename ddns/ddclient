@@ -5,6 +5,6 @@
 ssl=yes
 protocol=googledomains \
 use=web \
-login=BXPkr8dp2FSkDCt2 \
-password=7WYB2Kuka75ZZZoe \
+login=$GOOG_DDNS_USERNAME \
+password=GOOG_DDNS_PASSWORD \
 gappyland.com
