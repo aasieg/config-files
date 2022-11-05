@@ -1,1 +1,4 @@
-server.servlet.context-path: /komga
+komga:
+  komga.remember-me.key: Aj7dA8712DFas9ASfsed
+server:
+  servlet.context-path: /komga
